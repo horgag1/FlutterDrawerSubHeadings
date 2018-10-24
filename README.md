@@ -1,8 +1,7 @@
-# fortnightly
+# Navigation Drawer with sub headings
 
-A new Flutter application.
+cookbook recipe for Navigation Drawer with sub headings
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![](appvideo.gif)
